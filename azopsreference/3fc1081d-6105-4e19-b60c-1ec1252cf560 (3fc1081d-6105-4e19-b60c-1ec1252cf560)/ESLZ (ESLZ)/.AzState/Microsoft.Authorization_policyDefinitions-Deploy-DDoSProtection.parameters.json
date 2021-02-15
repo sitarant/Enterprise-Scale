@@ -16,7 +16,7 @@
               "type": "String",
               "metadata": {
                 "displayName": "ddosName",
-                "description": "Name of the Virtual WAN"
+                "description": "DDoSVnet"
               }
             },
             "ddosRegion": {
